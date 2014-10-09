@@ -1,0 +1,4 @@
+qrinventary
+===========
+
+inventario rapido
